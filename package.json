@@ -1,0 +1,24 @@
+{
+  "name": "building-website-with-skeleton-css",
+  "version": "1.0.0",
+  "description": "Get rid of the bloat with traditional CSS frameworks when creating prototypes and basic landing pages. In this tutorial, let's use the ultralight and simplicity of Skeleton CSS in building websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevTuts/build_website_with_skeleton_css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevTuts/build_website_with_skeleton_css/issues"
+  },
+  "homepage": "https://github.com/WebDevTuts/build_website_with_skeleton_css#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
